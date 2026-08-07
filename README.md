@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJyYm1oMHk3ZGJqaGN6MDA5MGNmdmx5a3ltbTljazdidjcyY2VhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAuDiTd7DLwYagLGH3/giphy.gif" width="120" />
   
-  # Hi there, I'm Ali 👋
+  # Hi there, I'm Ali 
   
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="[https://linkedin.com/in/YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ali-ahmed-4a1481313?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:YOUR_EMAIL@email.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
   
@@ -13,22 +14,23 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a 19-year-old student who learns best by building. I prefer skipping "tutorial hell" to dive straight into hands-on projects and figure things out along the way. 
 
 **When I'm offline, I'm usually:**
 * **Tinkering:** Self-hosting services or brainstorming at Hackathons.
-* **Editing:** Cutting fun video content with DaVinci Resolve & Premiere Pro for my family and friends.
+* **Editing:** Cutting fun video content with DaVinci Resolve & Premiere Pro.
 * **Reading:** Currently deep into Guy Kawasaki's *The Art of the Start 2.0*.
-* **Unplugging:** Hitting the trails for a good hike with my friends.
+* **Unplugging:** Hitting the trails for a good hike. 
+
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 I am actively building my foundation and always eager to learn new tools to bring my ideas to life.
 
-* **Languages:** Python, Java
+* **Languages:** Python (Beginner), Java (Beginner)
 * **Machine Learning:** PyTorch, Prompt Engineering
 * **Tools & Infrastructure:** Git, Docker, VS Code, Self-hosting basics
 
@@ -43,12 +45,12 @@ I am actively building my foundation and always eager to learn new tools to brin
 
 ---
 
-### 🧠 What I'm Building Right Now
+### What I'm Building Right Now
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="65%" style="border: none;">
-      <b>🤖 Autonomous Mobile Game AI Agent</b><br><br>
+      <b>Autonomous Mobile Game AI Agent</b><br><br>
       I am currently working on a neural network that learns to play a mobile game entirely on its own. Since there isn't an official API for the game, I had to get creative and build out my own simulation environment to train the model.<br><br>
       It's a challenging project, but it's teaching me a ton about how AI decision-making works in real-time scenarios and how to structure a machine learning project from scratch.
     </td>
@@ -60,5 +62,21 @@ I am actively building my foundation and always eager to learn new tools to brin
 
 ---
 
-### 🎯 Objective: Duales Studium Informatik (KI)
-I am currently looking for a partner company for a **Duales Studium Informatik** with a focus on Artificial Intelligence. I bring hands-on project experience, a self-driven attitude, and a genuine passion for solving problems. I am always open for a chat about motivation, AI trends, and potential opportunities!
+<br>
+
+<div align="center">
+
+```text
+██╗     ███████╗████████╗███████╗    ██████╗ ██╗   ██╗██╗██╗     ██████╗ 
+██║     ██╔════╝╚══██╔══╝██╔════╝    ██╔══██╗██║   ██║██║██║     ██╔══██╗
+██║     █████╗     ██║   ███████╗    ██████╔╝██║   ██║██║██║     ██║  ██║
+██║     ██╔══╝     ██║   ╚════██║    ██╔══██╗██║   ██║██║██║     ██║  ██║
+███████╗███████╗   ██║   ███████║    ██████╔╝╚██████╔╝██║███████╗██████╔╝
+╚══════╝╚══════╝   ╚═╝   ╚══════╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ 
+                                                                         
+████████╗ ██████╗  ██████╗ ███████╗████████╗██╗  ██╗███████╗██████╗      
+╚══██╔══╝██╔═══██╗██╔════╝ ██╔════╝╚══██╔══╝██║  ██║██╔════╝██╔══██╗     
+   ██║   ██║   ██║██║  ███╗█████╗     ██║   ███████║█████╗  ██████╔╝     
+   ██║   ██║   ██║██║   ██║██╔══╝     ██║   ██╔══██║██╔══╝  ██╔══██╗     
+   ██║   ╚██████╔╝╚██████╔╝███████╗   ██║   ██║  ██║███████╗██║  ██║     
+   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝     
