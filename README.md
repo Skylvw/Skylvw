@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=420&lines=Ali;AI+%2F+CS+student;Python+%C2%B7+PyTorch+%C2%B7+Cursor" alt="typing" />
+# Ali
+
+**AI / CS student** · Python · PyTorch · Cursor
 
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)](#)
@@ -11,22 +13,47 @@
 
 <br>
 
-Building an AI that plays a mobile game on its own, no official API, so the training environment is built from scratch: simulated game states as training data, architecture and logic designed from the ground up. Presented it at the Cursor Hackathon in Frankfurt.
+## current project
 
-Currently looking for a dual study program in Computer Science with an AI track.
+<table>
+<tr>
+<td width="70%" valign="top">
+
+**An AI that plays a mobile game on its own.** No official API from the developer, so the whole training environment is built from scratch:
+
+- Training environment designed and built from the ground up
+- Simulated game states used as training data
+- Architecture and logic designed from scratch
+- Presented as a participant at the Cursor Hackathon in Frankfurt
+
+</td>
+<td width="30%" align="center" valign="top">
+<img src="./assets/gengar.gif" width="140" />
+</td>
+</tr>
+</table>
+
+<br>
+
+## skills
+
+| | |
+|:--|:--|
+| AI / ML | Neural networks, reinforcement learning, training environments |
+| Development | Python, AI-assisted IDEs, prompt engineering |
+| Automation | Workflow and process automation |
 
 <br>
 
 <div align="center">
-
-<!-- swap each src below for your own gif link (tenor/giphy → right click → copy image address) -->
-<img src="PASTE_GENGAR_GIF_URL_HERE" width="160" />
-<img src="PASTE_COWBOY_BEBOP_GIF_URL_HERE" width="160" />
-<img src="PASTE_GTO_GIF_URL_HERE" width="160" />
-
+<img src="./assets/bebop.gif" width="120" />
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/gto.gif" width="120" />
 </div>
 
 <br>
+
+## stats
 
 <div align="center">
 
@@ -37,8 +64,6 @@ Currently looking for a dual study program in Computer Science with an AI track.
 
 <br>
 
-<div align="center">
+## looking for
 
-Open to a conversation about the dual study program, more on request.
-
-</div>
+**A dual study program in Computer Science, AI track.** Open to a conversation, more on request.
