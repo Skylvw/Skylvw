@@ -1,69 +1,97 @@
 <div align="center">
 
-# Ali
+```
+ ██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗
+ ██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗
+ ██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝
+ ██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗
+ ██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║
+ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-**AI / CS student** · Python · PyTorch · Cursor
+### KI-Entwickler · Neuronale Netze · Automatisierung
 
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+<img src="https://raw.githubusercontent.com/yaehachi/Programming-Language-Gifs/main/gifs/python.gif" width="400"/>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](#)
-[![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Status-Suche%20Dualen%20Studienplatz-4CAF50?style=for-the-badge)](#)
 
 </div>
 
 <br>
 
-## current project
+## `> whoami`
 
-<table>
-<tr>
-<td width="70%" valign="top">
+```yaml
+rolle:      Angehender Dualer Student — Informatik / Künstliche Intelligenz
+ansatz:     praktisch statt theoretisch
+werkzeuge:  Python, PyTorch, Cursor, Claude
+motto:      "Ideen → Code → funktionierende KI-Systeme"
+```
 
-**An AI that plays a mobile game on its own.** No official API from the developer, so the whole training environment is built from scratch:
-
-- Training environment designed and built from the ground up
-- Simulated game states used as training data
-- Architecture and logic designed from scratch
-- Presented as a participant at the Cursor Hackathon in Frankfurt
-
-</td>
-<td width="30%" align="center" valign="top">
-<img src="./assets/gengar.gif" width="140" />
-</td>
-</tr>
-</table>
+KI ist für mich kein Zukunftsthema, sondern **tägliches Werkzeug** — beim Entwickeln eigener Software und beim Automatisieren von Arbeitsprozessen.
 
 <br>
 
-## skills
+## `> aktuelles_projekt.py`
 
-| | |
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/ai-robot-arm.gif" width="380"/>
+</div>
+
+```
+┌─────────────────────────────────────────────┐
+│  🎮  KI SPIELT EIN MOBILE-GAME — SELBSTSTÄNDIG │
+└─────────────────────────────────────────────┘
+```
+
+**Problem:** Kein offizielles API vom Spielentwickler
+**Lösung:** Eigene Trainingsumgebung von null aufgebaut
+
+| Modul | Umsetzung |
 |:--|:--|
-| AI / ML | Neural networks, reinforcement learning, training environments |
-| Development | Python, AI-assisted IDEs, prompt engineering |
-| Automation | Workflow and process automation |
+| 🏗️ Environment | Selbst konzipierte Trainingsumgebung |
+| 🎯 Training | Simulierte Spielsituationen als Trainingsdaten |
+| 🧩 Architektur | Konzeption & Logik komplett eigenständig |
+| ⚡ Dev-Speed | Gezielter Einsatz von **Cursor** & **Claude** |
+| 🌐 Community | Teilnehmer, **Cursor Hackathon Frankfurt** |
+
+> **These:** KI-gestützte Dev-Tools sind keine Abkürzung — sie sind die nächste essenzielle Kompetenz in der Softwareentwicklung.
 
 <br>
 
+## `> skills.json`
+
 <div align="center">
-<img src="./assets/bebop.gif" width="120" />
-&nbsp;&nbsp;&nbsp;
-<img src="./assets/gto.gif" width="120" />
+
+| Bereich | Fokus |
+|:--:|:--:|
+| 🧠 **KI/ML** | Neuronale Netze, Reinforcement Learning, Trainingsumgebungen |
+| 💻 **Development** | Python, KI-gestützte IDEs (Cursor), Prompt Engineering |
+| ⚙️ **Automatisierung** | Workflow- & Prozessautomatisierung |
+| 🤝 **Community** | Hackathons, aktiver Austausch mit Entwicklern |
+
 </div>
 
 <br>
 
-## stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Skylvw&show_icons=true&hide_title=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylvw&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=true" width="48%" />
-
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/handshake.gif" width="320"/>
 </div>
 
-<br>
+## 🎯 Aktuell auf der Suche nach
 
-## looking for
+### Duales Studium Informatik — Ausrichtung Künstliche Intelligenz
 
-**A dual study program in Computer Science, AI track.** Open to a conversation, more on request.
+**Offen für ein Gespräch — Motivation & Projekte im Detail auf Anfrage.**
+
+```
+┌──────────────────────────────────────────┐
+│   Let's build something smart together   │
+└──────────────────────────────────────────┘
+```
+
+</div>
