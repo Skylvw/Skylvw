@@ -1,62 +1,47 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJyYm1oMHk3ZGJqaGN6MDA5MGNmdmx5a3ltbTljazdidjcyY2VhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAuDiTd7DLwYagLGH3/giphy.gif" width="120" />
+
   
-  # Hi there, I'm Ali 
-  **AI Developer | Reinforcement Learning | Python**
-
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:YOUR_EMAIL@email.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  </p>
+Hi there, I'm Ali 👋
   
-  <i>Training neural networks, automating workflows, and building at the speed of thought with Cursor & Claude.</i>
-</div>
+    
+    
+  
+19 years old | Student at BBS 1 (Wirtschaftsschule) in Ludwigshafen am Rhein | Tech Enthusiast
 
----
 
-### 🎯 Objective: Duales Studium Informatik (KI)
-I am currently looking for a partner company for a **Duales Studium Informatik** with a focus on Artificial Intelligence. I bring hands-on experience in ML architectures, self-directed learning, and a passion for solving complex problems. I am always open for a chat about motivation, AI trends, and potential projects!
+👨‍💻 About Me
+I'm a 19-year-old student with a huge passion for technology, learning, and creating. While I consider myself a beginner in programming, I prefer to skip tutorial hell and dive straight into hands-on projects to figure things out along the way.
+When I'm not at my keyboard, you can find me:
 
----
+Exploring the outdoors: I love going on hikes and disconnecting for a bit.
+Reading: I'm a massive fan of Guy Kawasaki's work and am currently reading through The Art of the Start 2.0.
+Video Editing: In my free time, I use DaVinci Resolve and Premiere Pro to edit videos and create fun content for myself and my family.
+Tinkering: I'm really into self-hosting my own services and love the energy of participating in Hackathons (I've joined quite a few!) to meet new people and brainstorm ideas.
 
-### 🧠 What I'm Building Right Now
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="65%" style="border: none;">
-      <b>🤖 Autonomous Mobile Game AI Agent</b><br><br>
-      I am developing a neural network that plays a mobile game completely autonomously—<b>without an official API</b>. Because no standard environment existed, I engineered a custom simulation environment where the model trains on generated game states.<br><br>
-      <i>Project Architecture:</i><br>
-      <code>├── game_env/      → Custom simulation environment</code><br>
-      <code>├── train.py       → Training logic & RL loop</code><br>
-      <code>└── policy_net.pt  → Core decision-making agent</code><br><br>
-      ⚡ <i>Fun Fact: I actively participated in the <b>Cursor Hackathon Frankfurt</b> to exchange ideas on AI-assisted development with the local dev community.</i>
-    </td>
-    <td width="35%" align="center" style="border: none;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I2ejRyMDdxamkwZXQ1aHdyM2JqenprYzFnYm11YnlqNXN3NGtyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUcupMEbxNNFbuOq4W/giphy.gif" width="250" style="border-radius:10px;" />
-    </td>
-  </tr>
-</table>
+🛠️ Tech Stack & Skills
+I am actively building my foundation and always eager to learn new tools to bring my ideas to life.
 
----
+Languages: Python (Beginner), Java (Beginner)
+Machine Learning: PyTorch, Prompt Engineering
+Tools & Infrastructure: Git, Docker, VS Code, Self-hosting basics
 
-### 🛠️ Core Tech Stack
 
-- **Machine Learning:** Neural Networks, Reinforcement Learning, Custom Training Environments
-- **Development:** Python, PyTorch / TensorFlow, Prompt Engineering, C++
-- **Tooling:** Cursor, Claude, Git, Workflow Automation
+  
+  
+  
+  
+  
+  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,vscode,linux,docker&theme=dark" />
-</div>
 
----
+🧠 What I'm Building Right Now
 
-### 📊 GitHub Activity
+      🤖 Autonomous Mobile Game AI Agent
+      I am currently working on a neural network that learns to play a mobile game entirely on its own. Since there isn't an official API for the game, I had to get creative and build out my own simulation environment to train the model.
+      It's a challenging project, but it's teaching me a ton about how AI decision-making works in real-time scenarios and how to structure a machine learning project from scratch.
+    
+      
+    
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Skylvw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylvw&layout=compact&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skylvw&theme=tokyonight&hide_border=true" />
-</div>
+🎯 Objective: Duales Studium Informatik (KI)
+I am currently looking for a partner company for a Duales Studium Informatik with a focus on Artificial Intelligence. I bring hands-on project experience, a self-driven attitude, and a genuine passion for solving problems. I am always open for a chat about motivation, AI trends, and potential opportunities!
