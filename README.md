@@ -33,7 +33,7 @@ I am currently looking for a partner company for a **Duales Studium Informatik**
       ⚡ <i>Fun Fact: I actively participated in the <b>Cursor Hackathon Frankfurt</b> to exchange ideas on AI-assisted development with the local dev community.</i>
     </td>
     <td width="35%" align="center" style="border: none;">
-      <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhrZXBzbzlqYmQ0cWhwcGVwNmc1dXY2M2wyOWJ0bHZxMXVhejZobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRDuN32tiOevbMTNMK/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I2ejRyMDdxamkwZXQ1aHdyM2JqenprYzFnYm11YnlqNXN3NGtyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUcupMEbxNNFbuOq4W/giphy.gif)" width="250" style="border-radius:10px;" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I2ejRyMDdxamkwZXQ1aHdyM2JqenprYzFnYm11YnlqNXN3NGtyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUcupMEbxNNFbuOq4W/giphy.gif" width="250" style="border-radius:10px;" />
     </td>
   </tr>
 </table>
