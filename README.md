@@ -1,15 +1,21 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=KI-Entwickler+%C2%B7+Neuronale+Netze;Automatisierung+%C2%B7+Praktisch+statt+theoretisch;Ideen+%E2%86%92+Code+%E2%86%92+funktionierende+KI-Systeme" alt="Typing SVG" />
+
 ```
- ██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗
- ██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗
- ██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝
- ██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗
- ██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║
- ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+╭──────────────────────────────────────────────────╮
+│  ●  ●  ●   kai@devbox: ~                          │
+├──────────────────────────────────────────────────┤
+│  $ status --current                               │
+│  > Suche Dualen Studienplatz — Informatik / KI    │
+│  > [ONLINE] building things while looking █       │
+╰──────────────────────────────────────────────────╯
 ```
 
-### KI-Entwickler · Neuronale Netze · Automatisierung
+| ![ASCII Portrait](avi-ascii.svg) | ![Info Card](info-card.svg) |
+|:--:|:--:|
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
@@ -78,13 +84,31 @@ KI ist für mich kein Zukunftsthema, sondern **tägliches Werkzeug** — beim En
 
 <br>
 
-## `> resilience.log`
+## `> github_stats.log`
 
-```diff
-- Verletzung während der Schulzeit → temporärer Leistungseinbruch
-+ Starke Ergebnisse in Leistungskursen, BWL & Informatik trotzdem gehalten
-+ Überzeugung: Persönlichkeit & Motivation zählen mehr als reine Notenschnitte
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br>
+
+## `> off_duty.exe`
+
+<img src="https://media1.tenor.com/m/hMQgeiW1JsYAAAAC/shiny-gengar-ig.gif" width="120" align="right" />
+
 ```
+🏸 Badminton      → wenn der Kopf eine Pause vom Code braucht
+📚 Lesen          → aktuell: "Think Remarkable" von Guy Kawasaki
+                    (habe alle seine Bücher gelesen, dieses ist das neueste)
+🎬 Video-Editing  → DaVinci Resolve & Premiere Pro
+✈️  Reisen         → neue Orte, neue Perspektiven
+```
+
+<br clear="right"/>
 
 <br>
 
@@ -101,5 +125,7 @@ KI ist für mich kein Zukunftsthema, sondern **tägliches Werkzeug** — beim En
 │   Let's build something smart together   │
 └──────────────────────────────────────────┘
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
