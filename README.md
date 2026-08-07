@@ -4,9 +4,8 @@
   # Hi there, I'm Ali 
   
   <p>
-    <a href="[https://linkedin.com/in/YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ali-ahmed-4a1481313?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:YOUR_EMAIL@email.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+    <a href="https://linkedin.com/in/ali-ahmed-4a1481313"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:aliahmedmpg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
   
   <i>19 years old | Student at BBS 1 (Wirtschaftsschule) in Ludwigshafen am Rhein | Tech Enthusiast</i>
