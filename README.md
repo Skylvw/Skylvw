@@ -1,131 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=KI-Entwickler+%C2%B7+Neuronale+Netze;Automatisierung+%C2%B7+Praktisch+statt+theoretisch;Ideen+%E2%86%92+Code+%E2%86%92+funktionierende+KI-Systeme" alt="Typing SVG" />
-
 ```
 ╭──────────────────────────────────────────────────╮
 │  ●  ●  ●   kai@devbox: ~                          │
 ├──────────────────────────────────────────────────┤
 │  $ status --current                               │
-│  > Suche Dualen Studienplatz — Informatik / KI    │
-│  > [ONLINE] building things while looking █       │
+│  > Looking for a dual study program — CS / AI     │
+│  > [ONLINE] building things                       │
 ╰──────────────────────────────────────────────────╯
 ```
 
-| ![ASCII Portrait](avi-ascii.svg) | ![Info Card](info-card.svg) |
-|:--:|:--:|
+### AI Developer · Neural Networks · Automation
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](#)
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Status-Suche%20Dualen%20Studienplatz-4CAF50?style=for-the-badge)](#)
+<br>
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=A78BFA" />
 
 </div>
 
 <br>
 
-## `> whoami`
+---
+
+<br>
+
+<div align="center">
+
+## `whoami`
 
 ```yaml
-rolle:      Angehender Dualer Student — Informatik / Künstliche Intelligenz
-ansatz:     praktisch statt theoretisch
-werkzeuge:  Python, PyTorch, Cursor, Claude
-motto:      "Ideen → Code → funktionierende KI-Systeme"
+role:       Aspiring dual study student — Computer Science / Artificial Intelligence
+approach:   practical over theoretical
+tools:      Python, PyTorch, Cursor, Claude
+motto:      "Idea → Code → working AI system"
 ```
 
-KI ist für mich kein Zukunftsthema, sondern **tägliches Werkzeug** — beim Entwickeln eigener Software und beim Automatisieren von Arbeitsprozessen.
+AI is not a future topic for me, it is a daily tool for building software and automating work.
+
+</div>
 
 <br>
 
-## `> aktuelles_projekt.py`
+---
 
-<table>
-<tr><td>
+<br>
+
+<div align="center">
+
+## `current_project`
 
 ```
-┌─────────────────────────────────────────────┐
-│  🎮  KI SPIELT EIN MOBILE-GAME — SELBSTSTÄNDIG │
-└─────────────────────────────────────────────┘
+AI plays a mobile game — on its own
 ```
 
-**Problem:** Kein offizielles API vom Spielentwickler
-**Lösung:** Eigene Trainingsumgebung von null aufgebaut
+**Problem:** no official API from the game developer
+**Solution:** built a training environment from scratch
 
-| Modul | Umsetzung |
+| Module | What I did |
 |:--|:--|
-| 🏗️ Environment | Selbst konzipierte Trainingsumgebung |
-| 🎯 Training | Simulierte Spielsituationen als Trainingsdaten |
-| 🧩 Architektur | Konzeption & Logik komplett eigenständig |
-| ⚡ Dev-Speed | Gezielter Einsatz von **Cursor** & **Claude** |
-| 🌐 Community | Teilnehmer, **Cursor Hackathon Frankfurt** |
+| Environment | Designed the training environment myself |
+| Training | Simulated game situations as training data |
+| Architecture | Concept and logic built entirely from scratch |
+| Dev speed | Used Cursor and Claude to move faster |
+| Community | Participant, Cursor Hackathon Frankfurt |
 
-</td></tr>
-</table>
-
-> **These:** KI-gestützte Dev-Tools sind keine Abkürzung — sie sind die nächste essenzielle Kompetenz in der Softwareentwicklung.
-
-<br>
-
-## `> skills.json`
-
-<div align="center">
-
-| Bereich | Fokus |
-|:--:|:--:|
-| 🧠 **KI/ML** | Neuronale Netze, Reinforcement Learning, Trainingsumgebungen |
-| 💻 **Development** | Python, KI-gestützte IDEs (Cursor), Prompt Engineering |
-| ⚙️ **Automatisierung** | Workflow- & Prozessautomatisierung |
-| 🤝 **Community** | Hackathons, aktiver Austausch mit Entwicklern |
+AI-assisted dev tools are not a shortcut, they are the next core skill in software development.
 
 </div>
 
 <br>
 
-## `> github_stats.log`
+---
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+## `skills`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+| Area | Focus |
+|:--|:--|
+| AI / ML | Neural networks, reinforcement learning, training environments |
+| Development | Python, AI-assisted IDEs (Cursor), prompt engineering |
+| Automation | Workflow and process automation |
+| Community | Hackathons, active exchange with other developers |
 
 </div>
 
 <br>
 
-## `> off_duty.exe`
-
-<img src="https://media1.tenor.com/m/hMQgeiW1JsYAAAAC/shiny-gengar-ig.gif" width="120" align="right" />
-
-```
-🏸 Badminton      → wenn der Kopf eine Pause vom Code braucht
-📚 Lesen          → aktuell: "Think Remarkable" von Guy Kawasaki
-                    (habe alle seine Bücher gelesen, dieses ist das neueste)
-🎬 Video-Editing  → DaVinci Resolve & Premiere Pro
-✈️  Reisen         → neue Orte, neue Perspektiven
-```
-
-<br clear="right"/>
+---
 
 <br>
 
 <div align="center">
 
-## 🎯 Aktuell auf der Suche nach
+## `off_duty`
 
-### Duales Studium Informatik — Ausrichtung Künstliche Intelligenz
+<img src="https://media1.tenor.com/m/hMQgeiW1JsYAAAAC/shiny-gengar-ig.gif" width="90" />
 
-**Offen für ein Gespräch — Motivation & Projekte im Detail auf Anfrage.**
+| | |
+|:--|:--|
+| Badminton | when my head needs a break from code |
+| Reading | currently: *Think Remarkable* by Guy Kawasaki (read all of his books, this is the newest) |
+| Video editing | DaVinci Resolve and Premiere Pro |
+| Traveling | new places, new perspective |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## Currently looking for
+
+### Dual study program in Computer Science — AI track
+
+Open to a conversation, happy to share more about my motivation and projects on request.
 
 ```
 ┌──────────────────────────────────────────┐
 │   Let's build something smart together   │
 └──────────────────────────────────────────┘
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
