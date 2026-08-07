@@ -14,21 +14,21 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a 19-year-old student with a huge passion for technology, learning, and creating. While I consider myself a beginner in programming, I prefer to skip tutorial hell and dive straight into hands-on projects to figure things out along the way. 
 
-When I'm not at my keyboard, you can find me:
-* **Exploring the outdoors:** I love going on hikes and disconnecting for a bit.
-* **Reading:** I'm a massive fan of Guy Kawasaki's work and am currently reading through *The Art of the Start 2.0*. 
-* **Video Editing:** In my free time, I use DaVinci Resolve and Premiere Pro to edit videos and create fun content for myself and my family.
-* **Tinkering:** I'm really into self-hosting my own services and love the energy of participating in Hackathons (I've joined quite a few!) to meet new people and brainstorm ideas.
+I'm a 19-year-old student who learns best by building. I prefer skipping "tutorial hell" to dive straight into hands-on projects and figure things out along the way. 
 
+**When I'm offline, I'm usually:**
+* **Tinkering:** Self-hosting services or brainstorming at Hackathons.
+* **Editing:** Cutting fun video content with DaVinci Resolve & Premiere Pro for my family and friends.
+* **Reading:** Currently deep into Guy Kawasaki's *The Art of the Start 2.0*.
+* **Unplugging:** Hitting the trails for a good hike with my friends.
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 I am actively building my foundation and always eager to learn new tools to bring my ideas to life.
 
-* **Languages:** Python (Beginner), Java (Beginner)
+* **Languages:** Python, Java
 * **Machine Learning:** PyTorch, Prompt Engineering
 * **Tools & Infrastructure:** Git, Docker, VS Code, Self-hosting basics
 
